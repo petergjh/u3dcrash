@@ -1,9 +1,0 @@
-
--
-RootUI#Assets/PackRes/Prefab/RootUI.prefab
-7
-GameStartUI(Assets/PackRes/Prefab/GameStartUI.prefab
-1
-TempleUI%Assets/PackRes/Prefab/TempleUI.prefab
-9
-SoulTempleUI)Assets/PackRes/Prefab/SoulTempleUI.prefab
