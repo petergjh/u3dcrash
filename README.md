@@ -22,11 +22,18 @@
 ## 设计模式
 ## 人工智能
 
+# 实例测试
+## TestPureMVC
+#### https://blog.csdn.net/qq_42672770/article/details/111660380
+
+
 # 项目实战
 ## 美术规范和优化
 ## XML和Json
 ## 数据库
 ## 项目制作
+
+
 
 
 
