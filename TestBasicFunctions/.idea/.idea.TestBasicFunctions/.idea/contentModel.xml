@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PG\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PG\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_TestBasicFunctions.1679430492.00" t="ExcludeRecursive" />
+    <e p="E:\u3dcrash\TestBasicFunctions" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="CheckMatShaderWindow.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="menuInfo.txt" t="Include" />
+        </e>
+        <e p="Script" t="Include">
+          <e p="TestButtonWithParam" t="Include">
+            <e p="TestButtonWithParam.cs" t="Include" />
+          </e>
+          <e p="TestChildCount" t="Include">
+            <e p="childCountTest.cs" t="Include" />
+          </e>
+          <e p="testCreateNewClassObject" t="Include">
+            <e p="testCreateNewClassObject.cs" t="Include" />
+          </e>
+          <e p="TestDelegate" t="Include">
+            <e p="TestAction.cs" t="Include" />
+            <e p="TestDelegate.cs" t="Include" />
+          </e>
+          <e p="TestDoubleToFloat" t="Include">
+            <e p="TestDoubleToFloat.cs" t="Include" />
+          </e>
+          <e p="TestDropdown" t="Include">
+            <e p="DropdownTest2.cs" t="Include" />
+            <e p="TestDropdown.cs" t="Include" />
+          </e>
+          <e p="TestFoldableMenu" t="Include">
+            <e p="FoldableMenu.cs" t="Include" />
+            <e p="ParentMenu.cs" t="Include" />
+          </e>
+          <e p="TestSetMatColor" t="Include">
+            <e p="SetMatColor.cs" t="Include" />
+          </e>
+          <e p="TestSlider" t="Include">
+            <e p="TestSlider.cs" t="Include" />
+          </e>
+          <e p="TestTxtColor" t="Include">
+            <e p="TestTxtColor.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TestBasicFunctions.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

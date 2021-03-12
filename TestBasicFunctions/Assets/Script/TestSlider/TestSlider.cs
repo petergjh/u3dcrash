@@ -9,5 +9,6 @@ public class TestSlider : MonoBehaviour
     {
         SliderValue = transform.GetComponentInChildren<Slider>().value;
         text.text = SliderValue * 100 + "%";
+        
     }
 }
